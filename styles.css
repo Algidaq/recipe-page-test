@@ -76,6 +76,9 @@ li {
 .text-color-wenge-brown {
   color: var(--wenge-brown-color);
 }
+.text-color-brandy-red {
+  color: var(--brandy-red-color);
+}
 
 body {
   width: 100%;
@@ -236,7 +239,7 @@ li .dot::before {
 }
 
 .divider {
-  height: 1px;
+  height: 0.1px;
   background-color: var(--white-coffe-color);
 }
 
