@@ -88,6 +88,11 @@ body main {
   height: 100%;
 }
 
+@media screen and (min-width: 736px) {
+  body main {
+    padding: 124px 0px;
+  }
+}
 .recipe {
   padding: 40px;
   border-radius: 24px;
