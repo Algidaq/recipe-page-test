@@ -77,7 +77,7 @@ li {
   color: var(--wenge-brown-color);
 }
 .text-color-brandy-red {
-  color: var(--brandy-red-color);
+  color: var(--brandy-red-color) !important;
 }
 
 body {
