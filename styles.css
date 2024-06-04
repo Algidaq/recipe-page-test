@@ -167,7 +167,7 @@ body main {
   }
 }
 
-.prep-info h3 {
+.prep-info h2 {
   color: var(--dark-raspberry-color);
 }
 
@@ -188,6 +188,7 @@ body main {
 
 li .dot {
   display: block;
+  width: 16px;
   position: relative;
 }
 
